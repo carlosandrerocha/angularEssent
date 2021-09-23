@@ -1,2 +1,2 @@
 # angularEssent
-Projeto CRUD em Angular que aborda os conceitos e elementos essenciais da Angular disponibilizado pela Cod3r e com algumas modificações pessoais.
+Curso de Angular Essencial (cod3r.com.br): Criação de uma implementação para um cadastro de produtos.
